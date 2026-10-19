@@ -1,5 +1,5 @@
 /* Nix app: dashboard + piece lookup (read-only). */
-const API_URL = 'PASTE-WEB-APP-LINK';   // the https://script.google.com/.../exec link
+const API_URL = 'https://script.google.com/macros/s/AKfycby4IDr0w-aAu54uZzLpOZu2XEE0y2k7pR-zzFK9obZwg9Os_Z6qi-aMZJm5aRIcCMhQBQ/exec';   // the https://script.google.com/.../exec link
 
 (function () {
   const LS_KEY = 'nixKey', LS_DATA = 'nixData';
